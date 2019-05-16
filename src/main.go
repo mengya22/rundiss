@@ -68,5 +68,5 @@ func run() {
 
 func main() {
 	webser.Start()
-	fmt.Println("ads")
+	fmt.Println("haha")
 }
