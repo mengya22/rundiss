@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"sync/atomic"
 	"time"
+	"webser"
 )
 
 type AppConfig struct {
@@ -66,6 +67,6 @@ func run() {
 }*/
 
 func main() {
-	//webser.Start()
+	webser.Start()
 	fmt.Println("ads")
 }
