@@ -66,7 +66,7 @@ func run() {
 
 
 func main() {
-	webser.Start()
-	fmt.Println("daf")
+	//webser.Start()
+	
 }
 }
